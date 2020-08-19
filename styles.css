@@ -1,0 +1,19 @@
+.chilanka {
+	font-family: 'Chilanka', cursive;
+}
+
+.raleway {
+	font-family: 'Raleway', sans-serif;
+}
+
+.roboto-mono {
+	font-family: 'Roboto Mono', monospace;	
+}
+
+body {
+	background-image: url(https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/02/19131712/NomNomNow_Pembroke_Welsh_Corgis-500x400.jpeg);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background: linear-gradient(red,blue);
+
+}
